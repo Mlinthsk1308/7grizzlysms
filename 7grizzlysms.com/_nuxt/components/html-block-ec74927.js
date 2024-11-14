@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[136],{1519:function(n,t,e){"use strict";e.r(t);var l=e(597).a.extend({name:"HtmlBlock",data:function(){return{}}}),c=e(5),component=Object(c.a)(l,(function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("section",{staticClass:"my-8"},[e("div",{domProps:{innerHTML:n._s(n.values.html)}})])}),[],!1,null,null,null);t.default=component.exports}}]);
+//# sourceMappingURL=html-block-ec74927.js.map

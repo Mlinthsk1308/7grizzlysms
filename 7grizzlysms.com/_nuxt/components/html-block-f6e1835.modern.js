@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[134],{1427:function(e,n,t){"use strict";t.r(n);var l=t(536).a.extend({name:"HtmlBlock",data:()=>({})}),c=t(4),component=Object(c.a)(l,(function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("section",{staticClass:"my-8"},[t("div",{domProps:{innerHTML:e._s(e.values.html)}})])}),[],!1,null,null,null);n.default=component.exports}}]);
+//# sourceMappingURL=html-block-f6e1835.modern.js.map

@@ -1,0 +1,1 @@
+.tm-about-list{max-height:300px;overflow:hidden;height:auto;position:relative}.tm-about-list:after{content:"";background:var(--tm-about-gradient);filter:drop-shadow(0 3px 12px rgba(148,141,141,.05));transform:matrix(1,0,0,-1,0,0);position:absolute;bottom:0;left:0;height:100%;width:100%}.tm-about-list--open{max-height:100%}.tm-about-list--open:after{content:none}

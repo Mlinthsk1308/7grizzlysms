@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[192],{1541:function(e,n,t){"use strict";t.r(n);var c={name:"ServiceInverseBlock",components:{LanguagesList:t(230).default}},l=t(5),component=Object(l.a)(c,(function(){var e=this.$createElement;return(this._self._c||e)("LanguagesList")}),[],!1,null,null,null);n.default=component.exports}}]);
+//# sourceMappingURL=service-inverse-block-025a6fa.js.map

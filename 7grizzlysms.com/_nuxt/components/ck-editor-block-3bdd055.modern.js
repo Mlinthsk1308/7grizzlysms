@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[103],{1409:function(e,n,t){"use strict";t.r(n);var c=t(536).a.extend({name:"CkEditorBlock"}),l=t(4),component=Object(l.a)(c,(function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",{staticClass:"cms-block-stub"},[t("div",{class:e.cfgs.container_class,domProps:{innerHTML:e._s(e.values.text)}})])}),[],!1,null,null,null);n.default=component.exports}}]);
+//# sourceMappingURL=ck-editor-block-3bdd055.modern.js.map

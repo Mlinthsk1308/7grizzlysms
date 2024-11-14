@@ -1,0 +1,33 @@
+HTTrack3.49-5 launched on Wed, 13 Nov 2024 14:37:34 at https://7grizzlysms.com
+(httrack https://7grizzlysms.com -O /home/kali/7grizzlysms_clone )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:40:53	Error: 	"Not Found" (404) at link https://7grizzlysms.com/'~assets/img/svg/header/logo-light-v1.svg' (from https://7grizzlysms.com/)
+14:40:53	Error: 	"Not Found" (404) at link https://7grizzlysms.com/'~assets/img/svg/header/logo-dark-v1.svg' (from https://7grizzlysms.com/)
+15:12:54	Warning: 	Link https://7grizzlysms.com/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+15:14:18	Error: 	"Not Found" (404) at link https://7grizzlysms.com/countries/'~assets/img/svg/header/logo-light-v1.svg' (from https://7grizzlysms.com/countries/chile)
+15:14:18	Error: 	"Not Found" (404) at link https://7grizzlysms.com/countries/'~assets/img/svg/header/logo-dark-v1.svg' (from https://7grizzlysms.com/countries/chile)
+15:17:40	Warning: 	Moved Permanently for https://7grizzlysms.com/registration/
+15:17:40	Warning: 	File has moved from https://7grizzlysms.com/registration/ to https://7grizzlysms.com/registration
+15:19:55	Error: 	"Not Found" (404) at link https://7grizzlysms.com/storage/99-app-logo-2.svg (from https://7grizzlysms.com/storage/0_99-app-logo-2_a1cc89d0.svg)
+15:20:19	Error: 	"Not Found" (404) at link https://7grizzlysms.com/storage/MEGOGO.svg (from https://7grizzlysms.com/storage/0_megogo-seeklogocom_5a4037d6.svg)
+15:20:19	Error: 	"Not Found" (404) at link https://7grizzlysms.com/storage/shell-logo.svg (from https://7grizzlysms.com/storage/0_shell-logo_6b3acbff.svg)
+15:21:19	Error: 	"Not Found" (404) at link https://7grizzlysms.com/profile/'~assets/img/svg/header/logo-light-v1.svg' (from https://7grizzlysms.com/profile/settings)
+15:21:19	Error: 	"Not Found" (404) at link https://7grizzlysms.com/profile/'~assets/img/svg/header/logo-dark-v1.svg' (from https://7grizzlysms.com/profile/settings)
+15:21:19	Error: 	"Not Found" (404) at link https://7grizzlysms.com/blog/'~assets/img/svg/header/logo-light-v1.svg' (from https://7grizzlysms.com/blog/bezopasnaa-registracia-v-messendzerah-kak-dobitsa-polnoj-konfidencialnosti)
+15:21:19	Error: 	"Not Found" (404) at link https://7grizzlysms.com/blog/'~assets/img/svg/header/logo-dark-v1.svg' (from https://7grizzlysms.com/blog/bezopasnaa-registracia-v-messendzerah-kak-dobitsa-polnoj-konfidencialnosti)
+15:24:57	Error: 	"Not Found" (404) at link https://7grizzlysms.com/api/storage/image/undefined_w-30_h-30_fit-crop.webp (from https://7grizzlysms.com/blog/tvitter-anonimno-bezopasnyj-prosmotr-bez-registracii)
+09:39:19	Error: 	"Not Found" (404) at link https://7grizzlysms.com/blog/t.me/grizzlysms_news (from https://7grizzlysms.com/blog/kak-sozdat-i-nastroit-gruppu-v-whatsapp-posagovaa-instrukcia)
+09:39:19	Error: 	"Not Found" (404) at link https://7grizzlysms.com/blog/obhod-zamedlenia-utuba-rabocie-sposoby (from https://7grizzlysms.com/blog/lucsie-servisy-dla-striminga-obzor-top-10)
+09:48:03	Error: 	"Not Found" (404) at link https://7grizzlysms.com/hepsiburada (from https://7grizzlysms.com/blog/how-to-create-a-hepsiburada-account-without-a-phone-number)
+09:55:21	Warning: 	Retry after error -4 (No data (connection closed)) at link https://7grizzlysms.com/api/storage/image/44347_w-624.webp (from https://7grizzlysms.com/countries/czech-republic)
+09:56:13	Error: 	"Not Found" (404) at link https://7grizzlysms.com/alibaba-2 (from https://7grizzlysms.com/blog/kupit-akkaunt-alibaba-bystro-i-nedorogo)
+09:56:20	Error: 	"Not Found" (404) at link https://7grizzlysms.com/blog/kupit-tureckij-akkaunt-stim-s-pomosu-virtualnogo-nomera (from https://7grizzlysms.com/blog/sozdat-i-popolnit-stim-turcia-v-2023-godu)
+09:56:20	Error: 	"Not Found" (404) at link https://7grizzlysms.com/blog/virtualnaa-karta-turcii-kak-sozdat-popolnit-i-polzovatsa (from https://7grizzlysms.com/blog/sozdat-i-popolnit-stim-turcia-v-2023-godu)
+
+HTTrack Website Copier/3.49-5 mirror complete in 12 hours 31 minutes 1 seconds : 7486 links scanned, 7465 files written (515734475 bytes overall) [234072199 bytes received at 5194 bytes/sec], 361961999 bytes transferred using HTTP compression in 1547 files, ratio 19%, 45.6 requests per connection
+(18 errors, 4 warnings, 0 messages)

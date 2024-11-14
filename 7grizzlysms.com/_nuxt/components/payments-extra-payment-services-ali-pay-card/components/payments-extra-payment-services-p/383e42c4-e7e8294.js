@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[42],{973:function(r,e,n){"use strict";n(25),n(35);e.a=function(r){if(500===(null==r?void 0:r.status))return"Ошибка сервера";var e=[];return Array.isArray(r.data)?(r.data.forEach((function(r){e.push((null==r?void 0:r.message)||r)})),e.join("<br/>")||"server error"):r.data.message||"server error"}}}]);
+//# sourceMappingURL=383e42c4-e7e8294.js.map
